@@ -1,0 +1,10 @@
+# Requirements for Python
+jupyter
+matplotlib
+numpy
+openpyxl
+pandas
+pmdarima
+scikit-learn
+scipy
+statsmodels
