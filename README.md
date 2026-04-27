@@ -1,18 +1,30 @@
-# Extreme Neerslag Project
+# neerslag_vs
 
-This workspace is set up for working with R and Python for data analysis, particularly for extreme precipitation studies.
+Analyse van extreme 10-daagse neerslagreeksen in Belgie.
 
-## Structure
-- `src/`: Source code scripts (R and Python)
-- `data/`: Data files
-- `notebooks/`: Jupyter notebooks for analysis
+## Structuur
 
-## Getting Started
-1. Ensure Python and R are installed.
-2. For Python: Install dependencies with `pip install -r requirements.txt`
-3. For R: Run scripts in src/
+- `src/`: Python- en R-scripts, plus de Jupyter notebooks.
+- `data/`: Verwerkte data en gegenereerde figuren.
+- `notebooks/`: Ruimte voor aparte notebooks.
+
+## Gebruik
+
+1. Installeer Python en eventueel R.
+2. Installeer de Python dependencies:
+
+   ```powershell
+   pip install -r requirements.txt
+   ```
+
+3. Open de notebook:
+
+   ```text
+   src/analyse 10 dagen.ipynb
+   ```
 
 ## Requirements
+
 - Python 3.x
-- R 4.x
-- VS Code with Python and R extensions
+- R 4.x, optioneel voor de R-scripts
+- VS Code met Python/Jupyter ondersteuning
