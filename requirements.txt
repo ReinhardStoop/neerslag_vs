@@ -1,5 +1,6 @@
 # Requirements for Python
 jupyter
+ipykernel
 matplotlib
 numpy
 openpyxl
