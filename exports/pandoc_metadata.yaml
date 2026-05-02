@@ -1,0 +1,19 @@
+---
+title: "Evaluatie Extreme Neerslag"
+subtitle: "Jaarlijkse maxima over 10 dagen"
+author: "Reinhard Stoop"
+date: "2026-05-02"
+lang: nl-BE
+toc: true
+toc-depth: 3
+number-sections: true
+papersize: a4
+fontsize: 11pt
+geometry:
+  - margin=2.5cm
+mainfont: "Arial"
+monofont: "Consolas"
+colorlinks: true
+linkcolor: blue
+urlcolor: blue
+---
